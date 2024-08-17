@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página de Prueba</title>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-TU-ID-DE-ANALYTICS"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-TU-ID-DE-ANALYTICS');
+    </script>
+    <!-- Fin Google Analytics -->
+</head>
+<body>
+    <h1>Bienvenidos a Mi Página de Prueba</h1>
+    <p>Esta es una página de prueba para analizar gráficos en Google Analytics.</p>
+</body>
+</html>
